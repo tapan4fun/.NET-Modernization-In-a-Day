@@ -104,7 +104,7 @@ az ad sp create-for-rbac --name contoso-app --role reader --scopes subscription/
   "displayName": "contoso-app",
   "name": "http://contoso-app",
   "password": "jTAQZPRfepm9v2tNCDa89JU_7Pxlyj6w-t",
-  "tenant": "2a1f4476-a400-402f-9408-5abd84538ee2"
+  "tenant": "2a1f4476-a400-xxxxxxxxxx"
 }
 ```
 
