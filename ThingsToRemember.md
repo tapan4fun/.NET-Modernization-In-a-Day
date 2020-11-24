@@ -116,10 +116,6 @@ Copy and paste the SQL script below into the new query window:
 
 Key name **SqlConnectionString**
 
-### Azure Database Migration Service
-
-Note: Do not try to restart the DMS service. Because DMS service takes around 30 mins to restart the service.
-
 ### Deploy the the API app service to Azure:
 
 **Login to LabVM**
